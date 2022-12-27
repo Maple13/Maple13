@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=maple13&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true&hide=stars&include_all_commits=true&count_private=true" />
 Working on:
 
 - Atinc [Atinc](https://github.com/atinc)

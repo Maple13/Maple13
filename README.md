@@ -22,4 +22,4 @@ Working on:
 - [Atinc](https://github.com/atinc)
 
 ![Wechat](https://img.shields.io/badge/mr__Maple13-success?style=flat&logo=Wechat&logoColor=white)
-![Email](https://img.shields.io/badge/dukedaijc@gmail.com-blue?style=flat&logo=Gmail&logoColor=white)
+![Email](https://img.shields.io/badge/im.maple13@outlook.com-blue?style=flat&logo=Gmail&logoColor=white)
